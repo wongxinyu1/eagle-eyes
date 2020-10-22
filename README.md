@@ -1,4 +1,5 @@
 # microbit project
+This is to minimise crowd in libraries or anywhere so noise level or the number of people will be maintained(covid19)
 #this is my code for the first microbit
 from microbit import *
 import music
